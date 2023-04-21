@@ -1,0 +1,4 @@
+/home/users/bpietrowiak/Spring_microservices/mssc-brewery-gateway/src/main/java/com/sfg/gateway/config/LoadBalancedRoutes.java
+/home/users/bpietrowiak/Spring_microservices/mssc-brewery-gateway/src/main/java/com/sfg/gateway/MsscBreweryGatewayApplication.java
+/home/users/bpietrowiak/Spring_microservices/mssc-brewery-gateway/src/main/java/com/sfg/gateway/config/GoogleConfig.java
+/home/users/bpietrowiak/Spring_microservices/mssc-brewery-gateway/src/main/java/com/sfg/gateway/config/LocalHostRouteConfig.java
